@@ -1,6 +1,6 @@
 # FlyDreamAir Customer Management System ✈️
 
-![FlyDreamAir Banner]([https://flydreamair.netlify.app/banner.png](https://github.com/shakeelmahdhy/Fly-DreamAir-Booking-Management-WebApp/blob/master/flydreamair_banner.png))
+![FlyDreamAir Banner](https://github.com/shakeelmahdhy/Fly-DreamAir-Booking-Management-WebApp/raw/master/flydreamair_banner.png)
 
 ## 🌐 Live Demo
 Explore the final web application here: [https://flydreamair.netlify.app/](https://flydreamair.netlify.app/)
